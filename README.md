@@ -46,8 +46,6 @@ To present insights visually and dynamically for better interpretation and decis
 
     2.2.2) macroeconomic data
         - merge : drop and rename columns after merge
-        - unpivot the DF
-        - extract indicator and year 9split a column
         - change data type
 
     2.2.3) countries data
