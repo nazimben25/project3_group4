@@ -23,6 +23,11 @@ To present insights visually and dynamically for better interpretation and decis
         type : API
         Access : https://api.worldbank.org/v2/country/XXX/indicator/XX.XXX.XXX.XX?date=XXXX:XXXX&format=json
 
+        2.1.2.1) countries
+        countries are selected from immigration list merged with countries to extract the iso3code Example Canada = CAN
+        2.1.2.2) indicators
+        you can add any indicator a the list . this list will be used to loop
+
     2.1.3) We need an intermediate data to link the country name (in immigration data) and country code (used by the API)
         this link is provided by a datafram countries 
         source : World bank
@@ -37,22 +42,32 @@ To present insights visually and dynamically for better interpretation and decis
     2.2.1) immigration data
         - drop columns in frensh
         - data type conversion
-        - replace null values
+        - replace empty values
+        - replace NAN values
         - replace country name
         - rename columns
-        - add months order
+        - map months to get the numeric value
+        - split column valu to eliminate extra strings
+        - change data type
+        - drop additional columns
+        - reset index
+        - change name of countries to be in line with UN convention (45 countries)
 
         - group by function to generate 2 df : immigration by country + immigration by country and by year
 
     2.2.2) macroeconomic data
-        - merge : drop and rename columns after merge
+        - retrieve countries list from immigration
+        - 
+
+        : drop and rename columns after merge
         - change data type
 
     2.2.3) countries data
         - drop rows with nan representing regions
+        - change type of data
 
 2.3) output
-csv : Countries list United Nations referential 
-csv : immigration cumulated by country from 2015 to 2024
-csv : immigration by country and by year from 2015 to 2024
-csv : selected indicatos for each country and by year from 2015 to 2024
+    csv : Countries list United Nations referential 
+    csv : immigration cumulated by country from 2015 to 2024
+    csv : immigration by country and by year from 2015 to 2024
+    csv : selected indicatos for each country and by year from 2015 to 2024
