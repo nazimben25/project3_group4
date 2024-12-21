@@ -71,3 +71,9 @@ To present insights visually and dynamically for better interpretation and decis
     csv : immigration cumulated by country from 2015 to 2024
     csv : immigration by country and by year from 2015 to 2024
     csv : selected indicatos for each country and by year from 2015 to 2024
+
+
+3) DATABASE creation
+
+
+4) API 
