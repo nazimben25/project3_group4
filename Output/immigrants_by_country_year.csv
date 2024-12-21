@@ -104,17 +104,16 @@ Azerbaijan,2021,515
 Azerbaijan,2022,350
 Azerbaijan,2023,245
 Azerbaijan,2024,185
-Azores,2022,0
-Bahama Islands,2015,65
-Bahama Islands,2016,80
-Bahama Islands,2017,125
-Bahama Islands,2018,180
-Bahama Islands,2019,210
-Bahama Islands,2020,100
-Bahama Islands,2021,370
-Bahama Islands,2022,270
-Bahama Islands,2023,405
-Bahama Islands,2024,350
+"Bahamas, The",2015,65
+"Bahamas, The",2016,80
+"Bahamas, The",2017,125
+"Bahamas, The",2018,180
+"Bahamas, The",2019,210
+"Bahamas, The",2020,100
+"Bahamas, The",2021,370
+"Bahamas, The",2022,270
+"Bahamas, The",2023,405
+"Bahamas, The",2024,350
 Bahrain,2015,25
 Bahrain,2016,5
 Bahrain,2017,25
@@ -208,16 +207,16 @@ Bolivia,2021,145
 Bolivia,2022,120
 Bolivia,2023,125
 Bolivia,2024,145
-Bosnia-Herzegovina,2015,190
-Bosnia-Herzegovina,2016,145
-Bosnia-Herzegovina,2017,95
-Bosnia-Herzegovina,2018,155
-Bosnia-Herzegovina,2019,115
-Bosnia-Herzegovina,2020,30
-Bosnia-Herzegovina,2021,65
-Bosnia-Herzegovina,2022,55
-Bosnia-Herzegovina,2023,60
-Bosnia-Herzegovina,2024,50
+Bosnia and Herzegovina,2015,190
+Bosnia and Herzegovina,2016,145
+Bosnia and Herzegovina,2017,95
+Bosnia and Herzegovina,2018,155
+Bosnia and Herzegovina,2019,115
+Bosnia and Herzegovina,2020,30
+Bosnia and Herzegovina,2021,65
+Bosnia and Herzegovina,2022,55
+Bosnia and Herzegovina,2023,60
+Bosnia and Herzegovina,2024,50
 Botswana,2015,90
 Botswana,2016,55
 Botswana,2017,60
@@ -238,16 +237,17 @@ Brazil,2021,11415
 Brazil,2022,7340
 Brazil,2023,7230
 Brazil,2024,5235
-Brunei,2015,5
-Brunei,2016,0
-Brunei,2017,0
-Brunei,2018,0
-Brunei,2019,0
-Brunei,2020,0
-Brunei,2021,0
-Brunei,2022,0
-Brunei,2023,0
-Brunei,2024,0
+British Virgin Islands,2020,0
+Brunei Darussalam,2015,5
+Brunei Darussalam,2016,0
+Brunei Darussalam,2017,0
+Brunei Darussalam,2018,0
+Brunei Darussalam,2019,0
+Brunei Darussalam,2020,0
+Brunei Darussalam,2021,0
+Brunei Darussalam,2022,0
+Brunei Darussalam,2023,0
+Brunei Darussalam,2024,0
 Bulgaria,2015,370
 Bulgaria,2016,370
 Bulgaria,2017,305
@@ -258,16 +258,16 @@ Bulgaria,2021,165
 Bulgaria,2022,135
 Bulgaria,2023,135
 Bulgaria,2024,80
-Burkina-Faso,2015,240
-Burkina-Faso,2016,280
-Burkina-Faso,2017,260
-Burkina-Faso,2018,295
-Burkina-Faso,2019,230
-Burkina-Faso,2020,175
-Burkina-Faso,2021,330
-Burkina-Faso,2022,500
-Burkina-Faso,2023,430
-Burkina-Faso,2024,390
+Burkina Faso,2015,240
+Burkina Faso,2016,280
+Burkina Faso,2017,260
+Burkina Faso,2018,295
+Burkina Faso,2019,230
+Burkina Faso,2020,175
+Burkina Faso,2021,330
+Burkina Faso,2022,500
+Burkina Faso,2023,430
+Burkina Faso,2024,390
 Burundi,2015,945
 Burundi,2016,635
 Burundi,2017,800
@@ -278,6 +278,15 @@ Burundi,2021,1260
 Burundi,2022,1585
 Burundi,2023,1030
 Burundi,2024,1090
+Cabo Verde,2015,0
+Cabo Verde,2016,0
+Cabo Verde,2017,0
+Cabo Verde,2019,0
+Cabo Verde,2020,0
+Cabo Verde,2021,0
+Cabo Verde,2022,10
+Cabo Verde,2023,0
+Cabo Verde,2024,0
 Cambodia,2015,205
 Cambodia,2016,255
 Cambodia,2017,225
@@ -298,15 +307,16 @@ Cameroon,2021,2560
 Cameroon,2022,6260
 Cameroon,2023,11690
 Cameroon,2024,17150
-Cape Verde Islands,2015,0
-Cape Verde Islands,2016,0
-Cape Verde Islands,2017,0
-Cape Verde Islands,2019,0
-Cape Verde Islands,2020,0
-Cape Verde Islands,2021,0
-Cape Verde Islands,2022,10
-Cape Verde Islands,2023,0
-Cape Verde Islands,2024,0
+Canada,2015,1085
+Canada,2016,865
+Canada,2017,980
+Canada,2018,900
+Canada,2019,1040
+Canada,2020,530
+Canada,2021,1160
+Canada,2022,940
+Canada,2023,1140
+Canada,2024,1400
 Central African Republic,2015,455
 Central African Republic,2016,90
 Central African Republic,2017,230
@@ -337,16 +347,16 @@ Chile,2021,775
 Chile,2022,610
 Chile,2023,745
 Chile,2024,750
-China,2015,19455
-China,2016,26785
-China,2017,30255
-China,2018,29710
-China,2019,30245
-China,2020,16515
-China,2021,31025
-China,2022,31870
-China,2023,31785
-China,2024,25995
+China,2015,20075
+China,2016,27580
+China,2017,31050
+China,2018,30670
+China,2019,31260
+China,2020,17090
+China,2021,32275
+China,2022,32910
+China,2023,32855
+China,2024,27060
 Colombia,2015,2180
 Colombia,2016,2445
 Colombia,2017,2230
@@ -367,16 +377,16 @@ Comoros,2021,0
 Comoros,2022,5
 Comoros,2023,5
 Comoros,2024,5
-Congo,2015,1810
-Congo,2016,2685
-Congo,2017,2515
-Congo,2018,2580
-Congo,2019,2460
-Congo,2020,935
-Congo,2021,2040
-Congo,2022,3550
-Congo,2023,5565
-Congo,2024,3645
+"Congo, Dem. Rep.",2015,1810
+"Congo, Dem. Rep.",2016,2685
+"Congo, Dem. Rep.",2017,2515
+"Congo, Dem. Rep.",2018,2580
+"Congo, Dem. Rep.",2019,2460
+"Congo, Dem. Rep.",2020,935
+"Congo, Dem. Rep.",2021,2040
+"Congo, Dem. Rep.",2022,3550
+"Congo, Dem. Rep.",2023,5565
+"Congo, Dem. Rep.",2024,3645
 Costa Rica,2015,115
 Costa Rica,2016,135
 Costa Rica,2017,135
@@ -387,8 +397,16 @@ Costa Rica,2021,255
 Costa Rica,2022,190
 Costa Rica,2023,260
 Costa Rica,2024,155
-Country not stated,2020,0
-Country not stated,2021,0
+Cote d'Ivoire,2015,1370
+Cote d'Ivoire,2016,1765
+Cote d'Ivoire,2017,1395
+Cote d'Ivoire,2018,1480
+Cote d'Ivoire,2019,1855
+Cote d'Ivoire,2020,1195
+Cote d'Ivoire,2021,1105
+Cote d'Ivoire,2022,2990
+Cote d'Ivoire,2023,2595
+Cote d'Ivoire,2024,2630
 Croatia,2015,510
 Croatia,2016,630
 Croatia,2017,580
@@ -420,16 +438,16 @@ Cyprus,2021,5
 Cyprus,2022,0
 Cyprus,2023,0
 Cyprus,2024,0
-Czech Republic,2015,280
-Czech Republic,2016,330
-Czech Republic,2017,310
-Czech Republic,2018,395
-Czech Republic,2019,375
-Czech Republic,2020,205
-Czech Republic,2021,355
-Czech Republic,2022,185
-Czech Republic,2023,210
-Czech Republic,2024,145
+Czechia,2015,280
+Czechia,2016,330
+Czechia,2017,310
+Czechia,2018,395
+Czechia,2019,375
+Czechia,2020,205
+Czechia,2021,355
+Czechia,2022,185
+Czechia,2023,210
+Czechia,2024,145
 Denmark,2015,60
 Denmark,2016,85
 Denmark,2017,80
@@ -470,9 +488,6 @@ Dominican Republic,2021,960
 Dominican Republic,2022,890
 Dominican Republic,2023,730
 Dominican Republic,2024,630
-East Timor,2016,0
-East Timor,2021,0
-East Timor,2023,0
 Ecuador,2015,225
 Ecuador,2016,255
 Ecuador,2017,200
@@ -483,16 +498,16 @@ Ecuador,2021,595
 Ecuador,2022,470
 Ecuador,2023,775
 Ecuador,2024,585
-Egypt,2015,3760
-Egypt,2016,3090
-Egypt,2017,2870
-Egypt,2018,3515
-Egypt,2019,3660
-Egypt,2020,1905
-Egypt,2021,3220
-Egypt,2022,2885
-Egypt,2023,2515
-Egypt,2024,2355
+"Egypt, Arab Rep.",2015,3760
+"Egypt, Arab Rep.",2016,3090
+"Egypt, Arab Rep.",2017,2870
+"Egypt, Arab Rep.",2018,3515
+"Egypt, Arab Rep.",2019,3660
+"Egypt, Arab Rep.",2020,1905
+"Egypt, Arab Rep.",2021,3220
+"Egypt, Arab Rep.",2022,2885
+"Egypt, Arab Rep.",2023,2515
+"Egypt, Arab Rep.",2024,2355
 El Salvador,2015,660
 El Salvador,2016,630
 El Salvador,2017,720
@@ -573,26 +588,26 @@ France,2022,14150
 France,2023,10075
 France,2024,8260
 French Polynesia,2022,0
-Gabon Republic,2015,40
-Gabon Republic,2016,30
-Gabon Republic,2017,30
-Gabon Republic,2018,25
-Gabon Republic,2019,30
-Gabon Republic,2020,0
-Gabon Republic,2021,30
-Gabon Republic,2022,75
-Gabon Republic,2023,75
-Gabon Republic,2024,125
-Gambia,2015,20
-Gambia,2016,35
-Gambia,2017,45
-Gambia,2018,45
-Gambia,2019,30
-Gambia,2020,10
-Gambia,2021,85
-Gambia,2022,60
-Gambia,2023,120
-Gambia,2024,95
+Gabon,2015,40
+Gabon,2016,30
+Gabon,2017,30
+Gabon,2018,25
+Gabon,2019,30
+Gabon,2020,0
+Gabon,2021,30
+Gabon,2022,75
+Gabon,2023,75
+Gabon,2024,125
+"Gambia, The",2015,20
+"Gambia, The",2016,35
+"Gambia, The",2017,45
+"Gambia, The",2018,45
+"Gambia, The",2019,30
+"Gambia, The",2020,10
+"Gambia, The",2021,85
+"Gambia, The",2022,60
+"Gambia, The",2023,120
+"Gambia, The",2024,95
 Georgia,2015,95
 Georgia,2016,120
 Georgia,2017,135
@@ -643,7 +658,6 @@ Grenada,2021,105
 Grenada,2022,105
 Grenada,2023,50
 Grenada,2024,65
-Guadeloupe,2022,0
 Guatemala,2015,240
 Guatemala,2016,190
 Guatemala,2017,245
@@ -694,7 +708,6 @@ Haiti,2021,2865
 Haiti,2022,4400
 Haiti,2023,3020
 Haiti,2024,4215
-Holy See,2022,0
 Honduras,2015,425
 Honduras,2016,360
 Honduras,2017,380
@@ -705,16 +718,16 @@ Honduras,2021,425
 Honduras,2022,370
 Honduras,2023,440
 Honduras,2024,370
-Hong Kong SAR,2015,890
-Hong Kong SAR,2016,1370
-Hong Kong SAR,2017,1360
-Hong Kong SAR,2018,1525
-Hong Kong SAR,2019,1545
-Hong Kong SAR,2020,1055
-Hong Kong SAR,2021,2295
-Hong Kong SAR,2022,3695
-Hong Kong SAR,2023,7535
-Hong Kong SAR,2024,3390
+"Hong Kong SAR, China",2015,890
+"Hong Kong SAR, China",2016,1370
+"Hong Kong SAR, China",2017,1360
+"Hong Kong SAR, China",2018,1525
+"Hong Kong SAR, China",2019,1545
+"Hong Kong SAR, China",2020,1055
+"Hong Kong SAR, China",2021,2295
+"Hong Kong SAR, China",2022,3695
+"Hong Kong SAR, China",2023,7535
+"Hong Kong SAR, China",2024,3390
 Hungary,2015,760
 Hungary,2016,510
 Hungary,2017,695
@@ -755,16 +768,16 @@ Indonesia,2021,600
 Indonesia,2022,480
 Indonesia,2023,625
 Indonesia,2024,430
-Iran,2015,11630
-Iran,2016,6465
-Iran,2017,4735
-Iran,2018,5505
-Iran,2019,6055
-Iran,2020,3815
-Iran,2021,11310
-Iran,2022,11110
-Iran,2023,10690
-Iran,2024,9900
+"Iran, Islamic Rep.",2015,11630
+"Iran, Islamic Rep.",2016,6465
+"Iran, Islamic Rep.",2017,4735
+"Iran, Islamic Rep.",2018,5505
+"Iran, Islamic Rep.",2019,6055
+"Iran, Islamic Rep.",2020,3815
+"Iran, Islamic Rep.",2021,11310
+"Iran, Islamic Rep.",2022,11110
+"Iran, Islamic Rep.",2023,10690
+"Iran, Islamic Rep.",2024,9900
 Iraq,2015,3980
 Iraq,2016,2420
 Iraq,2017,4740
@@ -805,16 +818,6 @@ Italy,2021,1720
 Italy,2022,1090
 Italy,2023,1205
 Italy,2024,715
-Ivory Coast,2015,1370
-Ivory Coast,2016,1765
-Ivory Coast,2017,1395
-Ivory Coast,2018,1480
-Ivory Coast,2019,1855
-Ivory Coast,2020,1195
-Ivory Coast,2021,1105
-Ivory Coast,2022,2990
-Ivory Coast,2023,2595
-Ivory Coast,2024,2630
 Jamaica,2015,3420
 Jamaica,2016,3560
 Jamaica,2017,3830
@@ -867,16 +870,16 @@ Kenya,2023,1220
 Kenya,2024,910
 Kiribati,2016,0
 Kiribati,2023,0
-Korea,2015,4105
-Korea,2016,4010
-Korea,2017,3975
-Korea,2018,4800
-Korea,2019,6110
-Korea,2020,3300
-Korea,2021,8240
-Korea,2022,5465
-Korea,2023,5205
-Korea,2024,3910
+"Korea, Rep.",2015,4105
+"Korea, Rep.",2016,4010
+"Korea, Rep.",2017,3975
+"Korea, Rep.",2018,4800
+"Korea, Rep.",2019,6110
+"Korea, Rep.",2020,3300
+"Korea, Rep.",2021,8240
+"Korea, Rep.",2022,5465
+"Korea, Rep.",2023,5205
+"Korea, Rep.",2024,3910
 Kosovo,2015,240
 Kosovo,2016,195
 Kosovo,2017,145
@@ -897,26 +900,26 @@ Kuwait,2021,20
 Kuwait,2022,25
 Kuwait,2023,25
 Kuwait,2024,10
-Kyrgyzstan,2015,125
-Kyrgyzstan,2016,250
-Kyrgyzstan,2017,120
-Kyrgyzstan,2018,160
-Kyrgyzstan,2019,110
-Kyrgyzstan,2020,45
-Kyrgyzstan,2021,75
-Kyrgyzstan,2022,80
-Kyrgyzstan,2023,135
-Kyrgyzstan,2024,75
-Laos,2015,5
-Laos,2016,0
-Laos,2017,5
-Laos,2018,0
-Laos,2019,5
-Laos,2020,0
-Laos,2021,0
-Laos,2022,5
-Laos,2023,0
-Laos,2024,0
+Kyrgyz Republic,2015,125
+Kyrgyz Republic,2016,250
+Kyrgyz Republic,2017,120
+Kyrgyz Republic,2018,160
+Kyrgyz Republic,2019,110
+Kyrgyz Republic,2020,45
+Kyrgyz Republic,2021,75
+Kyrgyz Republic,2022,80
+Kyrgyz Republic,2023,135
+Kyrgyz Republic,2024,75
+Lao PDR,2015,5
+Lao PDR,2016,0
+Lao PDR,2017,5
+Lao PDR,2018,0
+Lao PDR,2019,5
+Lao PDR,2020,0
+Lao PDR,2021,0
+Lao PDR,2022,5
+Lao PDR,2023,0
+Lao PDR,2024,0
 Latvia,2015,125
 Latvia,2016,135
 Latvia,2017,105
@@ -990,26 +993,16 @@ Luxembourg,2021,5
 Luxembourg,2022,5
 Luxembourg,2023,0
 Luxembourg,2024,0
-Macau SAR,2015,10
-Macau SAR,2016,10
-Macau SAR,2017,5
-Macau SAR,2018,0
-Macau SAR,2019,10
-Macau SAR,2020,0
-Macau SAR,2021,15
-Macau SAR,2022,5
-Macau SAR,2023,15
-Macau SAR,2024,10
-Macedonia,2015,220
-Macedonia,2016,140
-Macedonia,2017,70
-Macedonia,2018,85
-Macedonia,2019,90
-Macedonia,2020,25
-Macedonia,2021,75
-Macedonia,2022,35
-Macedonia,2023,60
-Macedonia,2024,50
+"Macao SAR, China",2015,10
+"Macao SAR, China",2016,10
+"Macao SAR, China",2017,5
+"Macao SAR, China",2018,0
+"Macao SAR, China",2019,10
+"Macao SAR, China",2020,0
+"Macao SAR, China",2021,15
+"Macao SAR, China",2022,5
+"Macao SAR, China",2023,15
+"Macao SAR, China",2024,10
 Madagascar,2015,95
 Madagascar,2016,140
 Madagascar,2017,110
@@ -1100,9 +1093,9 @@ Mexico,2021,5145
 Mexico,2022,5230
 Mexico,2023,5735
 Mexico,2024,5345
-Micronesia,2021,0
-Micronesia,2022,0
-Micronesia,2024,0
+"Micronesia, Fed. Sts.",2021,0
+"Micronesia, Fed. Sts.",2022,0
+"Micronesia, Fed. Sts.",2024,0
 Moldova,2015,930
 Moldova,2016,1090
 Moldova,2017,685
@@ -1161,16 +1154,16 @@ Mozambique,2021,5
 Mozambique,2022,0
 Mozambique,2023,5
 Mozambique,2024,5
-Myanmar (Burma),2015,435
-Myanmar (Burma),2016,420
-Myanmar (Burma),2017,165
-Myanmar (Burma),2018,180
-Myanmar (Burma),2019,210
-Myanmar (Burma),2020,50
-Myanmar (Burma),2021,110
-Myanmar (Burma),2022,190
-Myanmar (Burma),2023,255
-Myanmar (Burma),2024,295
+Myanmar,2015,435
+Myanmar,2016,420
+Myanmar,2017,165
+Myanmar,2018,180
+Myanmar,2019,210
+Myanmar,2020,50
+Myanmar,2021,110
+Myanmar,2022,190
+Myanmar,2023,255
+Myanmar,2024,295
 Namibia,2015,90
 Namibia,2016,50
 Namibia,2017,115
@@ -1202,8 +1195,6 @@ Netherlands,2021,500
 Netherlands,2022,390
 Netherlands,2023,435
 Netherlands,2024,315
-Netherlands Antilles,2019,0
-Nevis,2016,0
 New Caledonia,2021,0
 New Caledonia,2023,0
 New Zealand,2015,330
@@ -1246,6 +1237,16 @@ Nigeria,2021,15590
 Nigeria,2022,22135
 Nigeria,2023,17465
 Nigeria,2024,17370
+North Macedonia,2015,220
+North Macedonia,2016,140
+North Macedonia,2017,70
+North Macedonia,2018,85
+North Macedonia,2019,90
+North Macedonia,2020,25
+North Macedonia,2021,75
+North Macedonia,2022,35
+North Macedonia,2023,60
+North Macedonia,2024,50
 Northern Mariana Islands,2021,0
 Norway,2015,30
 Norway,2016,70
@@ -1267,16 +1268,6 @@ Oman,2021,0
 Oman,2022,0
 Oman,2023,0
 Oman,2024,0
-Other,2015,0
-Other,2016,0
-Other,2017,0
-Other,2018,0
-Other,2019,0
-Other,2020,0
-Other,2021,25
-Other,2022,0
-Other,2023,0
-Other,2024,5
 Pakistan,2015,11300
 Pakistan,2016,11350
 Pakistan,2017,7655
@@ -1292,16 +1283,6 @@ Palau,2019,0
 Palau,2022,0
 Palau,2023,0
 Palau,2024,0
-Palestinian Authority (Gaza/West Bank),2015,400
-Palestinian Authority (Gaza/West Bank),2016,410
-Palestinian Authority (Gaza/West Bank),2017,335
-Palestinian Authority (Gaza/West Bank),2018,460
-Palestinian Authority (Gaza/West Bank),2019,585
-Palestinian Authority (Gaza/West Bank),2020,475
-Palestinian Authority (Gaza/West Bank),2021,980
-Palestinian Authority (Gaza/West Bank),2022,870
-Palestinian Authority (Gaza/West Bank),2023,730
-Palestinian Authority (Gaza/West Bank),2024,675
 Panama,2015,30
 Panama,2016,20
 Panama,2017,35
@@ -1381,7 +1362,6 @@ Qatar,2021,0
 Qatar,2022,0
 Qatar,2023,0
 Qatar,2024,0
-Reunion,2023,0
 Romania,2015,1175
 Romania,2016,1365
 Romania,2017,980
@@ -1392,16 +1372,16 @@ Romania,2021,610
 Romania,2022,480
 Romania,2023,465
 Romania,2024,345
-Russia,2015,2120
-Russia,2016,2400
-Russia,2017,2285
-Russia,2018,2135
-Russia,2019,2265
-Russia,2020,1390
-Russia,2021,2000
-Russia,2022,1625
-Russia,2023,1770
-Russia,2024,1605
+Russian Federation,2015,2120
+Russian Federation,2016,2400
+Russian Federation,2017,2285
+Russian Federation,2018,2135
+Russian Federation,2019,2265
+Russian Federation,2020,1390
+Russian Federation,2021,2000
+Russian Federation,2022,1625
+Russian Federation,2023,1770
+Russian Federation,2024,1605
 Rwanda,2015,355
 Rwanda,2016,365
 Rwanda,2017,345
@@ -1484,7 +1464,6 @@ Singapore,2021,235
 Singapore,2022,300
 Singapore,2023,275
 Singapore,2024,205
-Sint-Maarten,2024,0
 Slovak Republic,2015,205
 Slovak Republic,2016,280
 Slovak Republic,2017,265
@@ -1564,16 +1543,6 @@ Sri Lanka,2021,2015
 Sri Lanka,2022,2505
 Sri Lanka,2023,2705
 Sri Lanka,2024,3135
-St. Kitts-Nevis,2015,25
-St. Kitts-Nevis,2016,25
-St. Kitts-Nevis,2017,25
-St. Kitts-Nevis,2018,5
-St. Kitts-Nevis,2019,20
-St. Kitts-Nevis,2020,5
-St. Kitts-Nevis,2021,15
-St. Kitts-Nevis,2022,15
-St. Kitts-Nevis,2023,50
-St. Kitts-Nevis,2024,25
 St. Lucia,2015,435
 St. Lucia,2016,335
 St. Lucia,2017,385
@@ -1594,16 +1563,6 @@ St. Vincent and the Grenadines,2021,270
 St. Vincent and the Grenadines,2022,250
 St. Vincent and the Grenadines,2023,240
 St. Vincent and the Grenadines,2024,155
-Stateless,2015,1045
-Stateless,2016,840
-Stateless,2017,935
-Stateless,2018,895
-Stateless,2019,1015
-Stateless,2020,525
-Stateless,2021,1110
-Stateless,2022,925
-Stateless,2023,1085
-Stateless,2024,1360
 Sudan,2015,330
 Sudan,2016,450
 Sudan,2017,430
@@ -1614,26 +1573,16 @@ Sudan,2021,1745
 Sudan,2022,1570
 Sudan,2023,2005
 Sudan,2024,1445
-Surinam,2015,0
-Surinam,2016,0
-Surinam,2017,0
-Surinam,2018,0
-Surinam,2019,5
-Surinam,2020,5
-Surinam,2021,0
-Surinam,2022,0
-Surinam,2023,5
-Surinam,2024,0
-Swaziland,2015,15
-Swaziland,2016,0
-Swaziland,2017,20
-Swaziland,2018,0
-Swaziland,2019,5
-Swaziland,2020,0
-Swaziland,2021,10
-Swaziland,2022,0
-Swaziland,2023,5
-Swaziland,2024,10
+Suriname,2015,0
+Suriname,2016,0
+Suriname,2017,0
+Suriname,2018,0
+Suriname,2019,5
+Suriname,2020,5
+Suriname,2021,0
+Suriname,2022,0
+Suriname,2023,5
+Suriname,2024,0
 Sweden,2015,175
 Sweden,2016,180
 Sweden,2017,175
@@ -1654,26 +1603,16 @@ Switzerland,2021,300
 Switzerland,2022,240
 Switzerland,2023,210
 Switzerland,2024,125
-Syria,2015,9850
-Syria,2016,35005
-Syria,2017,12060
-Syria,2018,12045
-Syria,2019,10120
-Syria,2020,4885
-Syria,2021,5595
-Syria,2022,8505
-Syria,2023,9350
-Syria,2024,6490
-Taiwan,2015,620
-Taiwan,2016,795
-Taiwan,2017,795
-Taiwan,2018,960
-Taiwan,2019,1015
-Taiwan,2020,575
-Taiwan,2021,1250
-Taiwan,2022,1040
-Taiwan,2023,1070
-Taiwan,2024,1065
+Syrian Arab Republic,2015,9850
+Syrian Arab Republic,2016,35005
+Syrian Arab Republic,2017,12060
+Syrian Arab Republic,2018,12045
+Syrian Arab Republic,2019,10120
+Syrian Arab Republic,2020,4885
+Syrian Arab Republic,2021,5595
+Syrian Arab Republic,2022,8505
+Syrian Arab Republic,2023,9350
+Syrian Arab Republic,2024,6490
 Tajikistan,2015,35
 Tajikistan,2016,15
 Tajikistan,2017,30
@@ -1704,6 +1643,9 @@ Thailand,2021,435
 Thailand,2022,385
 Thailand,2023,480
 Thailand,2024,480
+Timor-Leste,2016,0
+Timor-Leste,2021,0
+Timor-Leste,2023,0
 Togo,2015,265
 Togo,2016,250
 Togo,2017,205
@@ -1740,16 +1682,16 @@ Tunisia,2021,2630
 Tunisia,2022,4675
 Tunisia,2023,3465
 Tunisia,2024,4920
-Turkey,2015,870
-Turkey,2016,920
-Turkey,2017,1115
-Turkey,2018,2085
-Turkey,2019,2830
-Turkey,2020,2120
-Turkey,2021,4625
-Turkey,2022,2425
-Turkey,2023,2075
-Turkey,2024,2130
+Turkiye,2015,870
+Turkiye,2016,920
+Turkiye,2017,1115
+Turkiye,2018,2085
+Turkiye,2019,2830
+Turkiye,2020,2120
+Turkiye,2021,4625
+Turkiye,2022,2425
+Turkiye,2023,2075
+Turkiye,2024,2130
 Turkmenistan,2015,0
 Turkmenistan,2016,0
 Turkmenistan,2017,10
@@ -1791,26 +1733,26 @@ United Arab Emirates,2021,0
 United Arab Emirates,2022,10
 United Arab Emirates,2023,10
 United Arab Emirates,2024,5
-United Kingdom and Overseas Territories,2015,5360
-United Kingdom and Overseas Territories,2016,5810
-United Kingdom and Overseas Territories,2017,5310
-United Kingdom and Overseas Territories,2018,5660
-United Kingdom and Overseas Territories,2019,5635
-United Kingdom and Overseas Territories,2020,3410
-United Kingdom and Overseas Territories,2021,6560
-United Kingdom and Overseas Territories,2022,4500
-United Kingdom and Overseas Territories,2023,5000
-United Kingdom and Overseas Territories,2024,3525
-United States of America,2015,7655
-United States of America,2016,8480
-United States of America,2017,9140
-United States of America,2018,10895
-United States of America,2019,10785
-United States of America,2020,6380
-United States of America,2021,11950
-United States of America,2022,10415
-United States of America,2023,10640
-United States of America,2024,7865
+United Kingdom,2015,5360
+United Kingdom,2016,5810
+United Kingdom,2017,5310
+United Kingdom,2018,5660
+United Kingdom,2019,5635
+United Kingdom,2020,3410
+United Kingdom,2021,6560
+United Kingdom,2022,4500
+United Kingdom,2023,5000
+United Kingdom,2024,3525
+United States,2015,7655
+United States,2016,8480
+United States,2017,9140
+United States,2018,10895
+United States,2019,10785
+United States,2020,6380
+United States,2021,11950
+United States,2022,10415
+United States,2023,10640
+United States,2024,7865
 Uruguay,2015,25
 Uruguay,2016,40
 Uruguay,2017,5
@@ -1833,39 +1775,46 @@ Uzbekistan,2023,185
 Uzbekistan,2024,150
 Vanuatu,2023,0
 Vanuatu,2024,0
-Venezuela,2015,910
-Venezuela,2016,1010
-Venezuela,2017,1010
-Venezuela,2018,1520
-Venezuela,2019,1585
-Venezuela,2020,1055
-Venezuela,2021,2615
-Venezuela,2022,1545
-Venezuela,2023,1385
-Venezuela,2024,2730
-Vietnam,2015,2600
-Vietnam,2016,2450
-Vietnam,2017,2500
-Vietnam,2018,3045
-Vietnam,2019,4230
-Vietnam,2020,2620
-Vietnam,2021,5765
-Vietnam,2022,5455
-Vietnam,2023,6600
-Vietnam,2024,5935
-Virgin Islands,2020,0
-Western Sahara,2016,0
-Western Sahara,2021,0
-Yemen,2015,205
-Yemen,2016,155
-Yemen,2017,240
-Yemen,2018,550
-Yemen,2019,670
-Yemen,2020,585
-Yemen,2021,1385
-Yemen,2022,820
-Yemen,2023,655
-Yemen,2024,610
+"Venezuela, RB",2015,910
+"Venezuela, RB",2016,1010
+"Venezuela, RB",2017,1010
+"Venezuela, RB",2018,1520
+"Venezuela, RB",2019,1585
+"Venezuela, RB",2020,1055
+"Venezuela, RB",2021,2615
+"Venezuela, RB",2022,1545
+"Venezuela, RB",2023,1385
+"Venezuela, RB",2024,2730
+Viet Nam,2015,2600
+Viet Nam,2016,2450
+Viet Nam,2017,2500
+Viet Nam,2018,3045
+Viet Nam,2019,4230
+Viet Nam,2020,2620
+Viet Nam,2021,5765
+Viet Nam,2022,5455
+Viet Nam,2023,6600
+Viet Nam,2024,5935
+West Bank and Gaza,2015,400
+West Bank and Gaza,2016,410
+West Bank and Gaza,2017,335
+West Bank and Gaza,2018,460
+West Bank and Gaza,2019,585
+West Bank and Gaza,2020,475
+West Bank and Gaza,2021,980
+West Bank and Gaza,2022,870
+West Bank and Gaza,2023,730
+West Bank and Gaza,2024,675
+"Yemen, Rep.",2015,205
+"Yemen, Rep.",2016,155
+"Yemen, Rep.",2017,240
+"Yemen, Rep.",2018,550
+"Yemen, Rep.",2019,670
+"Yemen, Rep.",2020,585
+"Yemen, Rep.",2021,1385
+"Yemen, Rep.",2022,820
+"Yemen, Rep.",2023,655
+"Yemen, Rep.",2024,610
 Zambia,2015,30
 Zambia,2016,40
 Zambia,2017,85
