@@ -37,21 +37,23 @@ To present insights visually and dynamically for better interpretation and decis
 
 2.2) data cleaning and transformation
 
+    2.2.1) countries data
+        - drop rows with nan representing regions
+        - change type of data
 
-
-    2.2.1) immigration data
+    2.2.2) immigration data
         - drop columns in frensh
         - data type conversion
         - replace empty values
         - replace NAN values
-        - replace country name
+        - replace country name : the names used in the 2 datasets do not match
+            => identify the mismatch and manually create a mapping dictionary 
+            =>  replace 78 countries to be in line with World bank
         - rename columns
-        - map months to get the numeric value
-        - split column valu to eliminate extra strings
-        - change data type
-        - drop additional columns
+
+        - map months to get the numeric value (exp : mars : 3, apr : 4)
+
         - reset index
-        - change name of countries to be in line with UN convention (45 countries)
 
         - group by function to generate 2 df : immigration by country + immigration by country and by year
 
@@ -62,9 +64,7 @@ To present insights visually and dynamically for better interpretation and decis
         : drop and rename columns after merge
         - change data type
 
-    2.2.3) countries data
-        - drop rows with nan representing regions
-        - change type of data
+
 
 2.3) output
     csv : Countries list United Nations referential 
