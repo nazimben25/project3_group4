@@ -29,6 +29,13 @@ Algeria,2021,3075
 Algeria,2022,6175
 Algeria,2023,5250
 Algeria,2024,7225
+American Samoa,2015,0
+American Samoa,2016,0
+American Samoa,2018,0
+American Samoa,2019,0
+American Samoa,2020,0
+American Samoa,2021,0
+American Samoa,2023,0
 Andorra,2015,0
 Andorra,2018,0
 Andorra,2019,0
@@ -307,16 +314,16 @@ Cameroon,2021,2560
 Cameroon,2022,6260
 Cameroon,2023,11690
 Cameroon,2024,17150
-Canada,2015,1085
+Canada,2015,1070
 Canada,2016,865
-Canada,2017,980
+Canada,2017,960
 Canada,2018,900
-Canada,2019,1040
+Canada,2019,1035
 Canada,2020,530
-Canada,2021,1160
+Canada,2021,1150
 Canada,2022,940
-Canada,2023,1140
-Canada,2024,1400
+Canada,2023,1135
+Canada,2024,1390
 Central African Republic,2015,455
 Central African Republic,2016,90
 Central African Republic,2017,230
@@ -377,16 +384,26 @@ Comoros,2021,0
 Comoros,2022,5
 Comoros,2023,5
 Comoros,2024,5
-"Congo, Dem. Rep.",2015,1810
-"Congo, Dem. Rep.",2016,2685
-"Congo, Dem. Rep.",2017,2515
-"Congo, Dem. Rep.",2018,2580
-"Congo, Dem. Rep.",2019,2460
-"Congo, Dem. Rep.",2020,935
-"Congo, Dem. Rep.",2021,2040
-"Congo, Dem. Rep.",2022,3550
-"Congo, Dem. Rep.",2023,5565
-"Congo, Dem. Rep.",2024,3645
+"Congo, Dem. Rep.",2015,1675
+"Congo, Dem. Rep.",2016,2490
+"Congo, Dem. Rep.",2017,2355
+"Congo, Dem. Rep.",2018,2385
+"Congo, Dem. Rep.",2019,2290
+"Congo, Dem. Rep.",2020,860
+"Congo, Dem. Rep.",2021,1825
+"Congo, Dem. Rep.",2022,3255
+"Congo, Dem. Rep.",2023,5315
+"Congo, Dem. Rep.",2024,3460
+"Congo, Rep.",2015,135
+"Congo, Rep.",2016,195
+"Congo, Rep.",2017,160
+"Congo, Rep.",2018,195
+"Congo, Rep.",2019,170
+"Congo, Rep.",2020,75
+"Congo, Rep.",2021,215
+"Congo, Rep.",2022,295
+"Congo, Rep.",2023,250
+"Congo, Rep.",2024,185
 Costa Rica,2015,115
 Costa Rica,2016,135
 Costa Rica,2017,135
@@ -870,12 +887,22 @@ Kenya,2023,1220
 Kenya,2024,910
 Kiribati,2016,0
 Kiribati,2023,0
+"Korea, Dem. People's Rep.",2015,0
+"Korea, Dem. People's Rep.",2016,0
+"Korea, Dem. People's Rep.",2017,5
+"Korea, Dem. People's Rep.",2018,0
+"Korea, Dem. People's Rep.",2019,0
+"Korea, Dem. People's Rep.",2020,10
+"Korea, Dem. People's Rep.",2021,0
+"Korea, Dem. People's Rep.",2022,0
+"Korea, Dem. People's Rep.",2023,0
+"Korea, Dem. People's Rep.",2024,0
 "Korea, Rep.",2015,4105
 "Korea, Rep.",2016,4010
-"Korea, Rep.",2017,3975
+"Korea, Rep.",2017,3970
 "Korea, Rep.",2018,4800
 "Korea, Rep.",2019,6110
-"Korea, Rep.",2020,3300
+"Korea, Rep.",2020,3290
 "Korea, Rep.",2021,8240
 "Korea, Rep.",2022,5465
 "Korea, Rep.",2023,5205
@@ -1093,9 +1120,6 @@ Mexico,2021,5145
 Mexico,2022,5230
 Mexico,2023,5735
 Mexico,2024,5345
-"Micronesia, Fed. Sts.",2021,0
-"Micronesia, Fed. Sts.",2022,0
-"Micronesia, Fed. Sts.",2024,0
 Moldova,2015,930
 Moldova,2016,1090
 Moldova,2017,685
@@ -1393,12 +1417,6 @@ Rwanda,2022,1030
 Rwanda,2023,1015
 Rwanda,2024,1070
 Samoa,2015,0
-Samoa,2016,0
-Samoa,2018,0
-Samoa,2019,0
-Samoa,2020,0
-Samoa,2021,0
-Samoa,2023,0
 San Marino,2017,0
 San Marino,2020,0
 San Marino,2021,0
@@ -1464,6 +1482,7 @@ Singapore,2021,235
 Singapore,2022,300
 Singapore,2023,275
 Singapore,2024,205
+Sint Maarten (Dutch part),2024,0
 Slovak Republic,2015,205
 Slovak Republic,2016,280
 Slovak Republic,2017,265
@@ -1493,16 +1512,16 @@ Solomon Islands,2021,0
 Solomon Islands,2022,10
 Solomon Islands,2023,5
 Solomon Islands,2024,5
-Somalia,2015,1165
+Somalia,2015,1180
 Somalia,2016,1315
-Somalia,2017,1385
+Somalia,2017,1405
 Somalia,2018,2135
-Somalia,2019,3280
+Somalia,2019,3285
 Somalia,2020,1010
-Somalia,2021,2080
+Somalia,2021,2090
 Somalia,2022,2940
-Somalia,2023,5175
-Somalia,2024,4445
+Somalia,2023,5180
+Somalia,2024,4455
 South Africa,2015,940
 South Africa,2016,1070
 South Africa,2017,1555

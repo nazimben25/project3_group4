@@ -2,6 +2,7 @@ country,immigration_flow
 Afghanistan,81305
 Albania,5540
 Algeria,39655
+American Samoa,0
 Andorra,0
 Angola,925
 Antigua and Barbuda,705
@@ -32,14 +33,15 @@ Burundi,10805
 Cabo Verde,10
 Cambodia,1920
 Cameroon,50885
-Canada,10040
+Canada,9975
 Central African Republic,3040
 Chad,1680
 Chile,4830
 China,282825
 Colombia,32595
 Comoros,20
-"Congo, Dem. Rep.",27785
+"Congo, Dem. Rep.",25910
+"Congo, Rep.",1875
 Costa Rica,1690
 Cote d'Ivoire,18380
 Croatia,3580
@@ -91,7 +93,8 @@ Jordan,9730
 Kazakhstan,3890
 Kenya,6525
 Kiribati,0
-"Korea, Rep.",49120
+"Korea, Dem. People's Rep.",15
+"Korea, Rep.",49105
 Kosovo,1655
 Kuwait,130
 Kyrgyz Republic,1175
@@ -115,7 +118,6 @@ Marshall Islands,0
 Mauritania,705
 Mauritius,8130
 Mexico,40410
-"Micronesia, Fed. Sts.",0
 Moldova,4240
 Monaco,0
 Mongolia,855
@@ -159,10 +161,11 @@ Serbia,3920
 Seychelles,0
 Sierra Leone,560
 Singapore,2695
+Sint Maarten (Dutch part),0
 Slovak Republic,2465
 Slovenia,155
 Solomon Islands,20
-Somalia,24930
+Somalia,24995
 South Africa,15105
 South Sudan,1990
 Spain,6460
