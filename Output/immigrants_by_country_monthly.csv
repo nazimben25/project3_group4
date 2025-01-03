@@ -18729,7 +18729,7 @@ index,country,year,month_str,month_int,quarter,immigration_flow
 18727,Central African Republic,2024,Jun,6,Q2,70
 18728,Chad,2024,Jun,6,Q2,10
 18729,Chile,2024,Jun,6,Q2,85
-18730,China,2024,Jun,6,Q2,2750
+18730,China,2024,Jun,6,Q2,2755
 18731,Colombia,2024,Jun,6,Q2,830
 18732,"Congo, Dem. Rep.",2024,Jun,6,Q2,405
 18733,"Congo, Rep.",2024,Jun,6,Q2,15
@@ -19101,7 +19101,7 @@ index,country,year,month_str,month_int,quarter,immigration_flow
 19099,"Hong Kong SAR, China",2024,Aug,8,Q3,315
 19100,Hungary,2024,Aug,8,Q3,15
 19101,Iceland,2024,Aug,8,Q3,0
-19102,India,2024,Aug,8,Q3,10070
+19102,India,2024,Aug,8,Q3,10075
 19103,Indonesia,2024,Aug,8,Q3,45
 19104,"Iran, Islamic Rep.",2024,Aug,8,Q3,760
 19105,Iraq,2024,Aug,8,Q3,95
@@ -19147,7 +19147,7 @@ index,country,year,month_str,month_int,quarter,immigration_flow
 19145,New Zealand,2024,Aug,8,Q3,45
 19146,Nicaragua,2024,Aug,8,Q3,20
 19147,Niger,2024,Aug,8,Q3,10
-19148,Nigeria,2024,Aug,8,Q3,1445
+19148,Nigeria,2024,Aug,8,Q3,1450
 19149,Norway,2024,Aug,8,Q3,10
 19150,Canada,2024,Aug,8,Q3,5
 19151,Pakistan,2024,Aug,8,Q3,840
@@ -19434,7 +19434,7 @@ index,country,year,month_str,month_int,quarter,immigration_flow
 19432,Honduras,2024,Sep,9,Q3,25
 19433,"Hong Kong SAR, China",2024,Sep,9,Q3,90
 19434,Hungary,2024,Sep,9,Q3,15
-19435,India,2024,Sep,9,Q3,7820
+19435,India,2024,Sep,9,Q3,7825
 19436,Indonesia,2024,Sep,9,Q3,30
 19437,"Iran, Islamic Rep.",2024,Sep,9,Q3,720
 19438,Iraq,2024,Sep,9,Q3,75
@@ -19480,12 +19480,12 @@ index,country,year,month_str,month_int,quarter,immigration_flow
 19478,Nigeria,2024,Sep,9,Q3,1965
 19479,Norway,2024,Sep,9,Q3,0
 19480,Canada,2024,Sep,9,Q3,0
-19481,Pakistan,2024,Sep,9,Q3,1095
+19481,Pakistan,2024,Sep,9,Q3,1100
 19482,West Bank and Gaza,2024,Sep,9,Q3,85
 19483,Panama,2024,Sep,9,Q3,0
 19484,Paraguay,2024,Sep,9,Q3,5
 19485,Peru,2024,Sep,9,Q3,50
-19486,Philippines,2024,Sep,9,Q3,2570
+19486,Philippines,2024,Sep,9,Q3,2580
 19487,Poland,2024,Sep,9,Q3,30
 19488,Portugal,2024,Sep,9,Q3,35
 19489,Romania,2024,Sep,9,Q3,30
@@ -19502,7 +19502,7 @@ index,country,year,month_str,month_int,quarter,immigration_flow
 19500,South Africa,2024,Sep,9,Q3,80
 19501,South Sudan,2024,Sep,9,Q3,45
 19502,Spain,2024,Sep,9,Q3,40
-19503,Sri Lanka,2024,Sep,9,Q3,365
+19503,Sri Lanka,2024,Sep,9,Q3,370
 19504,St. Lucia,2024,Sep,9,Q3,15
 19505,St. Vincent and the Grenadines,2024,Sep,9,Q3,20
 19506,Canada,2024,Sep,9,Q3,140
@@ -19531,168 +19531,341 @@ index,country,year,month_str,month_int,quarter,immigration_flow
 19529,"Yemen, Rep.",2024,Sep,9,Q3,60
 19530,Zambia,2024,Sep,9,Q3,5
 19531,Zimbabwe,2024,Sep,9,Q3,45
-19532,Afghanistan,2024,Oct,10,Q4,670
-19533,Albania,2024,Oct,10,Q4,35
-19534,Algeria,2024,Oct,10,Q4,555
-19535,Angola,2024,Oct,10,Q4,0
-19536,Antigua and Barbuda,2024,Oct,10,Q4,5
-19537,Argentina,2024,Oct,10,Q4,15
-19538,Armenia,2024,Oct,10,Q4,5
-19539,Australia,2024,Oct,10,Q4,45
-19540,Austria,2024,Oct,10,Q4,5
-19541,Azerbaijan,2024,Oct,10,Q4,25
-19542,"Bahamas, The",2024,Oct,10,Q4,30
-19543,Bangladesh,2024,Oct,10,Q4,375
-19544,Barbados,2024,Oct,10,Q4,15
-19545,Belarus,2024,Oct,10,Q4,25
-19546,Belgium,2024,Oct,10,Q4,25
-19547,Belize,2024,Oct,10,Q4,0
-19548,Benin,2024,Oct,10,Q4,75
-19549,Bhutan,2024,Oct,10,Q4,5
-19550,Bolivia,2024,Oct,10,Q4,5
-19551,Bosnia and Herzegovina,2024,Oct,10,Q4,5
-19552,Botswana,2024,Oct,10,Q4,0
-19553,Brazil,2024,Oct,10,Q4,285
-19554,Bulgaria,2024,Oct,10,Q4,5
-19555,Burkina Faso,2024,Oct,10,Q4,35
-19556,Burundi,2024,Oct,10,Q4,125
-19557,Cambodia,2024,Oct,10,Q4,15
-19558,Cameroon,2024,Oct,10,Q4,2190
-19559,Central African Republic,2024,Oct,10,Q4,40
-19560,Chad,2024,Oct,10,Q4,5
-19561,Chile,2024,Oct,10,Q4,35
-19562,China,2024,Oct,10,Q4,2000
-19563,Colombia,2024,Oct,10,Q4,700
-19564,"Congo, Dem. Rep.",2024,Oct,10,Q4,450
-19565,"Congo, Rep.",2024,Oct,10,Q4,20
-19566,Costa Rica,2024,Oct,10,Q4,10
-19567,Croatia,2024,Oct,10,Q4,10
-19568,Cuba,2024,Oct,10,Q4,80
-19569,Cyprus,2024,Oct,10,Q4,0
-19570,Czechia,2024,Oct,10,Q4,5
-19571,Denmark,2024,Oct,10,Q4,0
-19572,Djibouti,2024,Oct,10,Q4,10
-19573,Dominica,2024,Oct,10,Q4,5
-19574,Dominican Republic,2024,Oct,10,Q4,50
-19575,Ecuador,2024,Oct,10,Q4,45
-19576,"Egypt, Arab Rep.",2024,Oct,10,Q4,185
-19577,El Salvador,2024,Oct,10,Q4,35
-19578,Eritrea,2024,Oct,10,Q4,1820
-19579,Estonia,2024,Oct,10,Q4,0
-19580,Ethiopia,2024,Oct,10,Q4,545
-19581,Fiji,2024,Oct,10,Q4,0
-19582,France,2024,Oct,10,Q4,490
-19583,Gabon,2024,Oct,10,Q4,10
-19584,"Gambia, The",2024,Oct,10,Q4,0
-19585,Georgia,2024,Oct,10,Q4,20
-19586,Germany,2024,Oct,10,Q4,50
-19587,Ghana,2024,Oct,10,Q4,125
-19588,Greece,2024,Oct,10,Q4,15
-19589,Grenada,2024,Oct,10,Q4,10
-19590,Guatemala,2024,Oct,10,Q4,15
-19591,Guinea,2024,Oct,10,Q4,30
-19592,Guyana,2024,Oct,10,Q4,15
-19593,Haiti,2024,Oct,10,Q4,935
-19594,Honduras,2024,Oct,10,Q4,35
-19595,"Hong Kong SAR, China",2024,Oct,10,Q4,85
-19596,Hungary,2024,Oct,10,Q4,15
-19597,India,2024,Oct,10,Q4,7915
-19598,Indonesia,2024,Oct,10,Q4,20
-19599,"Iran, Islamic Rep.",2024,Oct,10,Q4,600
-19600,Iraq,2024,Oct,10,Q4,65
-19601,Ireland,2024,Oct,10,Q4,65
-19602,Israel,2024,Oct,10,Q4,60
-19603,Italy,2024,Oct,10,Q4,25
-19604,Cote d'Ivoire,2024,Oct,10,Q4,255
-19605,Jamaica,2024,Oct,10,Q4,240
-19606,Japan,2024,Oct,10,Q4,45
-19607,Jordan,2024,Oct,10,Q4,110
-19608,Kazakhstan,2024,Oct,10,Q4,25
-19609,Kenya,2024,Oct,10,Q4,85
-19610,"Korea, Rep.",2024,Oct,10,Q4,215
-19611,Kosovo,2024,Oct,10,Q4,10
-19612,Kyrgyz Republic,2024,Oct,10,Q4,5
-19613,Latvia,2024,Oct,10,Q4,0
-19614,Lebanon,2024,Oct,10,Q4,455
-19615,Lesotho,2024,Oct,10,Q4,0
-19616,Liberia,2024,Oct,10,Q4,0
-19617,Libya,2024,Oct,10,Q4,25
-19618,Lithuania,2024,Oct,10,Q4,10
-19619,Luxembourg,2024,Oct,10,Q4,0
-19620,North Macedonia,2024,Oct,10,Q4,5
-19621,Madagascar,2024,Oct,10,Q4,40
-19622,Malawi,2024,Oct,10,Q4,0
-19623,Malaysia,2024,Oct,10,Q4,20
-19624,Mali,2024,Oct,10,Q4,40
-19625,Malta,2024,Oct,10,Q4,0
-19626,Mauritania,2024,Oct,10,Q4,5
-19627,Mauritius,2024,Oct,10,Q4,125
-19628,Mexico,2024,Oct,10,Q4,320
-19629,Moldova,2024,Oct,10,Q4,10
-19630,Monaco,2024,Oct,10,Q4,0
-19631,Mongolia,2024,Oct,10,Q4,5
-19632,Montenegro,2024,Oct,10,Q4,0
-19633,Morocco,2024,Oct,10,Q4,580
-19634,Mozambique,2024,Oct,10,Q4,0
-19635,Myanmar,2024,Oct,10,Q4,25
-19636,Namibia,2024,Oct,10,Q4,0
-19637,Nepal,2024,Oct,10,Q4,125
-19638,Netherlands,2024,Oct,10,Q4,15
-19639,New Zealand,2024,Oct,10,Q4,30
-19640,Nicaragua,2024,Oct,10,Q4,25
-19641,Niger,2024,Oct,10,Q4,0
-19642,Nigeria,2024,Oct,10,Q4,1670
-19643,Norway,2024,Oct,10,Q4,5
-19644,Canada,2024,Oct,10,Q4,0
-19645,Pakistan,2024,Oct,10,Q4,1155
-19646,West Bank and Gaza,2024,Oct,10,Q4,45
-19647,Panama,2024,Oct,10,Q4,10
-19648,Paraguay,2024,Oct,10,Q4,0
-19649,Peru,2024,Oct,10,Q4,40
-19650,Philippines,2024,Oct,10,Q4,2230
-19651,Poland,2024,Oct,10,Q4,35
-19652,Portugal,2024,Oct,10,Q4,40
-19653,Romania,2024,Oct,10,Q4,35
-19654,Russian Federation,2024,Oct,10,Q4,115
-19655,Rwanda,2024,Oct,10,Q4,115
-19656,Saudi Arabia,2024,Oct,10,Q4,15
-19657,Senegal,2024,Oct,10,Q4,60
-19658,Serbia,2024,Oct,10,Q4,10
-19659,Seychelles,2024,Oct,10,Q4,0
-19660,Sierra Leone,2024,Oct,10,Q4,10
-19661,Singapore,2024,Oct,10,Q4,15
-19662,Slovak Republic,2024,Oct,10,Q4,0
-19663,Somalia,2024,Oct,10,Q4,490
-19664,South Africa,2024,Oct,10,Q4,95
-19665,South Sudan,2024,Oct,10,Q4,55
-19666,Spain,2024,Oct,10,Q4,25
-19667,Sri Lanka,2024,Oct,10,Q4,360
-19668,Canada,2024,Oct,10,Q4,0
-19669,St. Lucia,2024,Oct,10,Q4,10
-19670,St. Vincent and the Grenadines,2024,Oct,10,Q4,10
-19671,Canada,2024,Oct,10,Q4,270
-19672,Sudan,2024,Oct,10,Q4,120
-19673,Suriname,2024,Oct,10,Q4,0
-19674,Somalia,2024,Oct,10,Q4,5
-19675,Sweden,2024,Oct,10,Q4,5
-19676,Switzerland,2024,Oct,10,Q4,10
-19677,Syrian Arab Republic,2024,Oct,10,Q4,370
-19678,China,2024,Oct,10,Q4,100
-19679,Tanzania,2024,Oct,10,Q4,20
-19680,Thailand,2024,Oct,10,Q4,30
-19681,Togo,2024,Oct,10,Q4,135
-19682,Trinidad and Tobago,2024,Oct,10,Q4,40
-19683,Tunisia,2024,Oct,10,Q4,360
-19684,Turkiye,2024,Oct,10,Q4,190
-19685,Uganda,2024,Oct,10,Q4,50
-19686,Ukraine,2024,Oct,10,Q4,425
-19687,United Arab Emirates,2024,Oct,10,Q4,0
-19688,United Kingdom,2024,Oct,10,Q4,245
-19689,United States,2024,Oct,10,Q4,545
-19690,Uruguay,2024,Oct,10,Q4,5
-19691,Uzbekistan,2024,Oct,10,Q4,15
-19692,"Venezuela, RB",2024,Oct,10,Q4,195
-19693,Viet Nam,2024,Oct,10,Q4,360
-19694,"Yemen, Rep.",2024,Oct,10,Q4,35
-19695,Zambia,2024,Oct,10,Q4,0
-19696,Zimbabwe,2024,Oct,10,Q4,35
+19532,Afghanistan,2024,Nov,11,Q4,665
+19533,Albania,2024,Nov,11,Q4,45
+19534,Algeria,2024,Nov,11,Q4,560
+19535,Angola,2024,Nov,11,Q4,10
+19536,Antigua and Barbuda,2024,Nov,11,Q4,10
+19537,Argentina,2024,Nov,11,Q4,30
+19538,Armenia,2024,Nov,11,Q4,20
+19539,Australia,2024,Nov,11,Q4,90
+19540,Austria,2024,Nov,11,Q4,10
+19541,Azerbaijan,2024,Nov,11,Q4,15
+19542,"Bahamas, The",2024,Nov,11,Q4,15
+19543,Bahrain,2024,Nov,11,Q4,0
+19544,Bangladesh,2024,Nov,11,Q4,290
+19545,Barbados,2024,Nov,11,Q4,20
+19546,Belarus,2024,Nov,11,Q4,15
+19547,Belgium,2024,Nov,11,Q4,60
+19548,Belize,2024,Nov,11,Q4,5
+19549,Benin,2024,Nov,11,Q4,70
+19550,Bhutan,2024,Nov,11,Q4,0
+19551,Bolivia,2024,Nov,11,Q4,35
+19552,Bosnia and Herzegovina,2024,Nov,11,Q4,10
+19553,Botswana,2024,Nov,11,Q4,0
+19554,Brazil,2024,Nov,11,Q4,445
+19555,Brunei Darussalam,2024,Nov,11,Q4,0
+19556,Bulgaria,2024,Nov,11,Q4,10
+19557,Burkina Faso,2024,Nov,11,Q4,60
+19558,Burundi,2024,Nov,11,Q4,125
+19559,Cambodia,2024,Nov,11,Q4,5
+19560,Cameroon,2024,Nov,11,Q4,2060
+19561,Cabo Verde,2024,Nov,11,Q4,0
+19562,Central African Republic,2024,Nov,11,Q4,20
+19563,Chad,2024,Nov,11,Q4,25
+19564,Chile,2024,Nov,11,Q4,75
+19565,China,2024,Nov,11,Q4,2405
+19566,Colombia,2024,Nov,11,Q4,815
+19567,"Congo, Dem. Rep.",2024,Nov,11,Q4,385
+19568,"Congo, Rep.",2024,Nov,11,Q4,20
+19569,Costa Rica,2024,Nov,11,Q4,15
+19570,Canada,2024,Nov,11,Q4,0
+19571,Croatia,2024,Nov,11,Q4,10
+19572,Cuba,2024,Nov,11,Q4,95
+19573,Cyprus,2024,Nov,11,Q4,0
+19574,Czechia,2024,Nov,11,Q4,5
+19575,Denmark,2024,Nov,11,Q4,0
+19576,Djibouti,2024,Nov,11,Q4,15
+19577,Dominica,2024,Nov,11,Q4,5
+19578,Dominican Republic,2024,Nov,11,Q4,70
+19579,Ecuador,2024,Nov,11,Q4,60
+19580,"Egypt, Arab Rep.",2024,Nov,11,Q4,140
+19581,El Salvador,2024,Nov,11,Q4,45
+19582,Eritrea,2024,Nov,11,Q4,1585
+19583,Ethiopia,2024,Nov,11,Q4,440
+19584,Fiji,2024,Nov,11,Q4,15
+19585,Finland,2024,Nov,11,Q4,0
+19586,France,2024,Nov,11,Q4,995
+19587,Gabon,2024,Nov,11,Q4,10
+19588,"Gambia, The",2024,Nov,11,Q4,15
+19589,Georgia,2024,Nov,11,Q4,30
+19590,Germany,2024,Nov,11,Q4,65
+19591,Ghana,2024,Nov,11,Q4,130
+19592,Greece,2024,Nov,11,Q4,15
+19593,Grenada,2024,Nov,11,Q4,5
+19594,Guatemala,2024,Nov,11,Q4,45
+19595,Guinea,2024,Nov,11,Q4,70
+19596,Guyana,2024,Nov,11,Q4,20
+19597,Haiti,2024,Nov,11,Q4,475
+19598,Honduras,2024,Nov,11,Q4,60
+19599,"Hong Kong SAR, China",2024,Nov,11,Q4,65
+19600,Hungary,2024,Nov,11,Q4,35
+19601,Iceland,2024,Nov,11,Q4,0
+19602,India,2024,Nov,11,Q4,8105
+19603,Indonesia,2024,Nov,11,Q4,25
+19604,"Iran, Islamic Rep.",2024,Nov,11,Q4,720
+19605,Iraq,2024,Nov,11,Q4,75
+19606,Ireland,2024,Nov,11,Q4,45
+19607,Israel,2024,Nov,11,Q4,55
+19608,Italy,2024,Nov,11,Q4,75
+19609,Cote d'Ivoire,2024,Nov,11,Q4,260
+19610,Jamaica,2024,Nov,11,Q4,320
+19611,Japan,2024,Nov,11,Q4,65
+19612,Jordan,2024,Nov,11,Q4,130
+19613,Kazakhstan,2024,Nov,11,Q4,15
+19614,Kenya,2024,Nov,11,Q4,100
+19615,"Korea, Dem. People's Rep.",2024,Nov,11,Q4,0
+19616,"Korea, Rep.",2024,Nov,11,Q4,265
+19617,Kosovo,2024,Nov,11,Q4,10
+19618,Kuwait,2024,Nov,11,Q4,0
+19619,Kyrgyz Republic,2024,Nov,11,Q4,15
+19620,Lao PDR,2024,Nov,11,Q4,5
+19621,Latvia,2024,Nov,11,Q4,0
+19622,Lebanon,2024,Nov,11,Q4,305
+19623,Liberia,2024,Nov,11,Q4,10
+19624,Libya,2024,Nov,11,Q4,35
+19625,Lithuania,2024,Nov,11,Q4,10
+19626,"Macao SAR, China",2024,Nov,11,Q4,0
+19627,North Macedonia,2024,Nov,11,Q4,0
+19628,Madagascar,2024,Nov,11,Q4,70
+19629,Malawi,2024,Nov,11,Q4,0
+19630,Malaysia,2024,Nov,11,Q4,15
+19631,Maldives,2024,Nov,11,Q4,0
+19632,Mali,2024,Nov,11,Q4,45
+19633,Mauritania,2024,Nov,11,Q4,0
+19634,Mauritius,2024,Nov,11,Q4,95
+19635,Mexico,2024,Nov,11,Q4,670
+19636,Moldova,2024,Nov,11,Q4,20
+19637,Mongolia,2024,Nov,11,Q4,5
+19638,Morocco,2024,Nov,11,Q4,570
+19639,Myanmar,2024,Nov,11,Q4,25
+19640,Namibia,2024,Nov,11,Q4,0
+19641,Nepal,2024,Nov,11,Q4,140
+19642,Netherlands,2024,Nov,11,Q4,40
+19643,New Zealand,2024,Nov,11,Q4,25
+19644,Nicaragua,2024,Nov,11,Q4,35
+19645,Niger,2024,Nov,11,Q4,15
+19646,Nigeria,2024,Nov,11,Q4,1520
+19647,Norway,2024,Nov,11,Q4,0
+19648,Canada,2024,Nov,11,Q4,5
+19649,Pakistan,2024,Nov,11,Q4,1095
+19650,West Bank and Gaza,2024,Nov,11,Q4,65
+19651,Panama,2024,Nov,11,Q4,5
+19652,Paraguay,2024,Nov,11,Q4,5
+19653,Peru,2024,Nov,11,Q4,80
+19654,Philippines,2024,Nov,11,Q4,2440
+19655,Poland,2024,Nov,11,Q4,35
+19656,Portugal,2024,Nov,11,Q4,65
+19657,Qatar,2024,Nov,11,Q4,0
+19658,Romania,2024,Nov,11,Q4,40
+19659,Russian Federation,2024,Nov,11,Q4,80
+19660,Rwanda,2024,Nov,11,Q4,75
+19661,Saudi Arabia,2024,Nov,11,Q4,15
+19662,Senegal,2024,Nov,11,Q4,65
+19663,Serbia,2024,Nov,11,Q4,20
+19664,Sierra Leone,2024,Nov,11,Q4,5
+19665,Singapore,2024,Nov,11,Q4,20
+19666,Slovak Republic,2024,Nov,11,Q4,10
+19667,Slovenia,2024,Nov,11,Q4,0
+19668,Solomon Islands,2024,Nov,11,Q4,0
+19669,Somalia,2024,Nov,11,Q4,615
+19670,South Africa,2024,Nov,11,Q4,100
+19671,South Sudan,2024,Nov,11,Q4,80
+19672,Spain,2024,Nov,11,Q4,40
+19673,Sri Lanka,2024,Nov,11,Q4,420
+19674,Canada,2024,Nov,11,Q4,0
+19675,St. Lucia,2024,Nov,11,Q4,15
+19676,St. Vincent and the Grenadines,2024,Nov,11,Q4,20
+19677,Canada,2024,Nov,11,Q4,105
+19678,Sudan,2024,Nov,11,Q4,220
+19679,Suriname,2024,Nov,11,Q4,0
+19680,Sweden,2024,Nov,11,Q4,10
+19681,Switzerland,2024,Nov,11,Q4,20
+19682,Syrian Arab Republic,2024,Nov,11,Q4,670
+19683,China,2024,Nov,11,Q4,115
+19684,Tajikistan,2024,Nov,11,Q4,0
+19685,Tanzania,2024,Nov,11,Q4,25
+19686,Thailand,2024,Nov,11,Q4,25
+19687,Togo,2024,Nov,11,Q4,100
+19688,Trinidad and Tobago,2024,Nov,11,Q4,40
+19689,Tunisia,2024,Nov,11,Q4,445
+19690,Turkiye,2024,Nov,11,Q4,185
+19691,Turkmenistan,2024,Nov,11,Q4,0
+19692,Turks and Caicos Islands,2024,Nov,11,Q4,0
+19693,Uganda,2024,Nov,11,Q4,75
+19694,Ukraine,2024,Nov,11,Q4,590
+19695,United Arab Emirates,2024,Nov,11,Q4,0
+19696,United Kingdom,2024,Nov,11,Q4,325
+19697,United States,2024,Nov,11,Q4,715
+19698,Uruguay,2024,Nov,11,Q4,0
+19699,Uzbekistan,2024,Nov,11,Q4,5
+19700,"Venezuela, RB",2024,Nov,11,Q4,245
+19701,Viet Nam,2024,Nov,11,Q4,415
+19702,"Yemen, Rep.",2024,Nov,11,Q4,90
+19703,Zambia,2024,Nov,11,Q4,5
+19704,Zimbabwe,2024,Nov,11,Q4,50
+19705,Afghanistan,2024,Oct,10,Q4,670
+19706,Albania,2024,Oct,10,Q4,35
+19707,Algeria,2024,Oct,10,Q4,555
+19708,Angola,2024,Oct,10,Q4,0
+19709,Antigua and Barbuda,2024,Oct,10,Q4,5
+19710,Argentina,2024,Oct,10,Q4,15
+19711,Armenia,2024,Oct,10,Q4,5
+19712,Australia,2024,Oct,10,Q4,45
+19713,Austria,2024,Oct,10,Q4,5
+19714,Azerbaijan,2024,Oct,10,Q4,25
+19715,"Bahamas, The",2024,Oct,10,Q4,30
+19716,Bangladesh,2024,Oct,10,Q4,375
+19717,Barbados,2024,Oct,10,Q4,15
+19718,Belarus,2024,Oct,10,Q4,25
+19719,Belgium,2024,Oct,10,Q4,25
+19720,Belize,2024,Oct,10,Q4,0
+19721,Benin,2024,Oct,10,Q4,75
+19722,Bhutan,2024,Oct,10,Q4,5
+19723,Bolivia,2024,Oct,10,Q4,5
+19724,Bosnia and Herzegovina,2024,Oct,10,Q4,5
+19725,Botswana,2024,Oct,10,Q4,0
+19726,Brazil,2024,Oct,10,Q4,285
+19727,Bulgaria,2024,Oct,10,Q4,5
+19728,Burkina Faso,2024,Oct,10,Q4,35
+19729,Burundi,2024,Oct,10,Q4,125
+19730,Cambodia,2024,Oct,10,Q4,15
+19731,Cameroon,2024,Oct,10,Q4,2190
+19732,Central African Republic,2024,Oct,10,Q4,40
+19733,Chad,2024,Oct,10,Q4,5
+19734,Chile,2024,Oct,10,Q4,35
+19735,China,2024,Oct,10,Q4,2010
+19736,Colombia,2024,Oct,10,Q4,700
+19737,"Congo, Dem. Rep.",2024,Oct,10,Q4,450
+19738,"Congo, Rep.",2024,Oct,10,Q4,20
+19739,Costa Rica,2024,Oct,10,Q4,10
+19740,Croatia,2024,Oct,10,Q4,10
+19741,Cuba,2024,Oct,10,Q4,80
+19742,Cyprus,2024,Oct,10,Q4,0
+19743,Czechia,2024,Oct,10,Q4,5
+19744,Denmark,2024,Oct,10,Q4,0
+19745,Djibouti,2024,Oct,10,Q4,10
+19746,Dominica,2024,Oct,10,Q4,5
+19747,Dominican Republic,2024,Oct,10,Q4,50
+19748,Ecuador,2024,Oct,10,Q4,45
+19749,"Egypt, Arab Rep.",2024,Oct,10,Q4,185
+19750,El Salvador,2024,Oct,10,Q4,35
+19751,Eritrea,2024,Oct,10,Q4,1840
+19752,Estonia,2024,Oct,10,Q4,0
+19753,Ethiopia,2024,Oct,10,Q4,550
+19754,Fiji,2024,Oct,10,Q4,0
+19755,France,2024,Oct,10,Q4,490
+19756,Gabon,2024,Oct,10,Q4,10
+19757,"Gambia, The",2024,Oct,10,Q4,0
+19758,Georgia,2024,Oct,10,Q4,20
+19759,Germany,2024,Oct,10,Q4,50
+19760,Ghana,2024,Oct,10,Q4,125
+19761,Greece,2024,Oct,10,Q4,15
+19762,Grenada,2024,Oct,10,Q4,10
+19763,Guatemala,2024,Oct,10,Q4,15
+19764,Guinea,2024,Oct,10,Q4,30
+19765,Guyana,2024,Oct,10,Q4,15
+19766,Haiti,2024,Oct,10,Q4,935
+19767,Honduras,2024,Oct,10,Q4,35
+19768,"Hong Kong SAR, China",2024,Oct,10,Q4,85
+19769,Hungary,2024,Oct,10,Q4,15
+19770,India,2024,Oct,10,Q4,7930
+19771,Indonesia,2024,Oct,10,Q4,20
+19772,"Iran, Islamic Rep.",2024,Oct,10,Q4,600
+19773,Iraq,2024,Oct,10,Q4,65
+19774,Ireland,2024,Oct,10,Q4,65
+19775,Israel,2024,Oct,10,Q4,60
+19776,Italy,2024,Oct,10,Q4,25
+19777,Cote d'Ivoire,2024,Oct,10,Q4,255
+19778,Jamaica,2024,Oct,10,Q4,240
+19779,Japan,2024,Oct,10,Q4,45
+19780,Jordan,2024,Oct,10,Q4,115
+19781,Kazakhstan,2024,Oct,10,Q4,25
+19782,Kenya,2024,Oct,10,Q4,85
+19783,"Korea, Rep.",2024,Oct,10,Q4,215
+19784,Kosovo,2024,Oct,10,Q4,10
+19785,Kyrgyz Republic,2024,Oct,10,Q4,5
+19786,Latvia,2024,Oct,10,Q4,0
+19787,Lebanon,2024,Oct,10,Q4,455
+19788,Lesotho,2024,Oct,10,Q4,0
+19789,Liberia,2024,Oct,10,Q4,0
+19790,Libya,2024,Oct,10,Q4,25
+19791,Lithuania,2024,Oct,10,Q4,10
+19792,Luxembourg,2024,Oct,10,Q4,0
+19793,North Macedonia,2024,Oct,10,Q4,10
+19794,Madagascar,2024,Oct,10,Q4,40
+19795,Malawi,2024,Oct,10,Q4,0
+19796,Malaysia,2024,Oct,10,Q4,20
+19797,Mali,2024,Oct,10,Q4,40
+19798,Malta,2024,Oct,10,Q4,0
+19799,Mauritania,2024,Oct,10,Q4,5
+19800,Mauritius,2024,Oct,10,Q4,125
+19801,Mexico,2024,Oct,10,Q4,320
+19802,Moldova,2024,Oct,10,Q4,10
+19803,Monaco,2024,Oct,10,Q4,0
+19804,Mongolia,2024,Oct,10,Q4,5
+19805,Montenegro,2024,Oct,10,Q4,0
+19806,Morocco,2024,Oct,10,Q4,580
+19807,Mozambique,2024,Oct,10,Q4,0
+19808,Myanmar,2024,Oct,10,Q4,25
+19809,Namibia,2024,Oct,10,Q4,0
+19810,Nepal,2024,Oct,10,Q4,125
+19811,Netherlands,2024,Oct,10,Q4,15
+19812,New Zealand,2024,Oct,10,Q4,30
+19813,Nicaragua,2024,Oct,10,Q4,25
+19814,Niger,2024,Oct,10,Q4,0
+19815,Nigeria,2024,Oct,10,Q4,1675
+19816,Norway,2024,Oct,10,Q4,5
+19817,Canada,2024,Oct,10,Q4,0
+19818,Pakistan,2024,Oct,10,Q4,1160
+19819,West Bank and Gaza,2024,Oct,10,Q4,45
+19820,Panama,2024,Oct,10,Q4,10
+19821,Paraguay,2024,Oct,10,Q4,0
+19822,Peru,2024,Oct,10,Q4,40
+19823,Philippines,2024,Oct,10,Q4,2235
+19824,Poland,2024,Oct,10,Q4,35
+19825,Portugal,2024,Oct,10,Q4,40
+19826,Romania,2024,Oct,10,Q4,35
+19827,Russian Federation,2024,Oct,10,Q4,115
+19828,Rwanda,2024,Oct,10,Q4,115
+19829,Saudi Arabia,2024,Oct,10,Q4,15
+19830,Senegal,2024,Oct,10,Q4,60
+19831,Serbia,2024,Oct,10,Q4,10
+19832,Seychelles,2024,Oct,10,Q4,0
+19833,Sierra Leone,2024,Oct,10,Q4,10
+19834,Singapore,2024,Oct,10,Q4,15
+19835,Slovak Republic,2024,Oct,10,Q4,0
+19836,Somalia,2024,Oct,10,Q4,495
+19837,South Africa,2024,Oct,10,Q4,95
+19838,South Sudan,2024,Oct,10,Q4,55
+19839,Spain,2024,Oct,10,Q4,25
+19840,Sri Lanka,2024,Oct,10,Q4,360
+19841,Canada,2024,Oct,10,Q4,0
+19842,St. Lucia,2024,Oct,10,Q4,10
+19843,St. Vincent and the Grenadines,2024,Oct,10,Q4,10
+19844,Canada,2024,Oct,10,Q4,275
+19845,Sudan,2024,Oct,10,Q4,120
+19846,Suriname,2024,Oct,10,Q4,0
+19847,Somalia,2024,Oct,10,Q4,5
+19848,Sweden,2024,Oct,10,Q4,5
+19849,Switzerland,2024,Oct,10,Q4,10
+19850,Syrian Arab Republic,2024,Oct,10,Q4,370
+19851,China,2024,Oct,10,Q4,100
+19852,Tanzania,2024,Oct,10,Q4,20
+19853,Thailand,2024,Oct,10,Q4,30
+19854,Togo,2024,Oct,10,Q4,135
+19855,Trinidad and Tobago,2024,Oct,10,Q4,40
+19856,Tunisia,2024,Oct,10,Q4,360
+19857,Turkiye,2024,Oct,10,Q4,195
+19858,Uganda,2024,Oct,10,Q4,50
+19859,Ukraine,2024,Oct,10,Q4,425
+19860,United Arab Emirates,2024,Oct,10,Q4,0
+19861,United Kingdom,2024,Oct,10,Q4,245
+19862,United States,2024,Oct,10,Q4,545
+19863,Uruguay,2024,Oct,10,Q4,5
+19864,Uzbekistan,2024,Oct,10,Q4,15
+19865,"Venezuela, RB",2024,Oct,10,Q4,200
+19866,Viet Nam,2024,Oct,10,Q4,365
+19867,"Yemen, Rep.",2024,Oct,10,Q4,35
+19868,Zambia,2024,Oct,10,Q4,0
+19869,Zimbabwe,2024,Oct,10,Q4,35

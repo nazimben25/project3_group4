@@ -12,6 +12,20 @@ To identify trends and correlations between economic strength (measured by GDP) 
 To present insights visually and dynamically for better interpretation and decision-making.
 
 2) DATA COLLECTION AND TRANSFORMATION
+use jupyter notebook : Data_collection.ipynb
+ 
+Dependencies used
+
+    - import pandas as pd
+    - import pathlib as path
+    - import requests
+    - import json
+    - from pprint import pprint
+    - import numpy as np
+    - from scipy.stats import linregress
+    - from io import StringIO
+
+
 2.1) data collection
     2.1.1) for immigration data 
         source : Immigration, refugees and citizenship of Canada
@@ -60,20 +74,71 @@ To present insights visually and dynamically for better interpretation and decis
     2.2.2) macroeconomic data
         - retrieve countries list from immigration
         - 
-
         : drop and rename columns after merge
         - change data type
 
 
 
 2.3) output
-    csv : Countries list United Nations referential 
+    csv countries_list_UN_referential: Countries list United Nations referential 
+    csv immigrants_by_country_monthly: immigration by country and by month from 2015 to 2024
     csv : immigration cumulated by country from 2015 to 2024
     csv : immigration by country and by year from 2015 to 2024
-    csv : selected indicatos for each country and by year from 2015 to 2024
+    csv macro_economic_data: selected indicators for each country and by year from 2015 to 2024
 
 
 3) DATABASE creation
+use jupyter notebook : create_db.ipynb
+output : database sqlite : immigration_canada_pr.sqlite
+output : quick DBD png file : QuickDBD-export.png
+
+Dependencies used
+    # Import SQL Alchemy
+    from sqlalchemy import create_engine
+
+    # Import and establish Base for which classes will be constructed
+    from sqlalchemy.ext.declarative import declarative_base
 
 
-4) API 
+    # Import modules to declare columns and column data types
+    from sqlalchemy import Column, Integer, String, Float, Boolean, MetaData, Table
+
+    # Import the Python SQL toolkit and Object Relational Mapper
+    import sqlalchemy
+    from sqlalchemy.ext.automap import automap_base
+    from sqlalchemy.orm import Session
+    from sqlalchemy import create_engine, inspect
+
+- use of declarative_base method
+
+- table creation
+    - 3 tables
+    - creation of 3 classes : countries, immigration, macrodata
+
+- data importation
+importation of data with function tosql() from the csv files generated in step 1
+
+
+4) API use jupyter notebook : Data_collection.ipynb
+
+use python file : app_project.py
+on sqlite db created in step 2
+
+# Import the dependencies.
+
+    import sqlalchemy
+    from sqlalchemy.ext.automap import automap_base
+    from sqlalchemy.orm import Session
+    from sqlalchemy import create_engine, func
+    import numpy as np
+    from datetime import timedelta, datetime
+    from dateutil.relativedelta import relativedelta
+    from flask import Flask, jsonify   
+    from collections import defaultdict  # to generate dictionary 'precipitation
+
+- use of automap_base method
+
+- create a server : http://127.0.0.1:5000 : it describes the possibilities
+
+- create 6 links to extract data 
+
