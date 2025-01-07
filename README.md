@@ -165,11 +165,26 @@ on sqlite db created in step 2
 
 - create 6 links to extract data 
 
-6) leaflet visualization
-run the index.html file
+6) visualizations
+2 html files
+visualization_leaflets : world map of the immigration flow with LEAFLET
+visualization _ outputs : 3 charts among them a race chart bar
 
-the JS code is in file project3_group4\static\js\logic.js
-uses the route http://127.0.0.1:5000/api/v0.1/immigation_flow_per_country
+
+leaflet
+    the JS code is in file project3_group4\static\js\logic.js
+    uses the route http://127.0.0.1:5000/api/v0.1/immigation_flow_per_country
+
+        <!-- Leaflet JS -->
+        "https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+        crossorigin="">
+    <!-- Leaflet MarkerCluster JS -->
+    script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"
+    <!-- D3 JavaScript -->
+    script src="https://d3js.org/d3.v7.min.js"
+    <!-- Our JavaScript -->
+    script type="text/javascript" src="static/js/logic.js"
 
 6) external codes used
 for generation of the race bar chart
