@@ -11,7 +11,7 @@ from datetime import timedelta, datetime
 from dateutil.relativedelta import relativedelta
 
 from flask import Flask, jsonify
-
+from flask_cors import CORS
     
 from collections import defaultdict  # to generate dictionary 'precipitation
 
@@ -50,7 +50,7 @@ print(session.query(macrodata).first().__dict__)
 # Flask Setup
 #################################################
 app = Flask(__name__)
-
+CORS(app)
 #################################################
 # Flask Routes
 #################################################
@@ -198,7 +198,7 @@ def immigation_flow_per_country():
     #create a list to be jsonified, by loopong through the result above
 
     flow_by_country_list = []
-    for country, region, lon, lat, sumflow in result:
+    for country, region, lat, lon, sumflow in result:
         flow_dict = {}
         flow_dict['country'] = country
         flow_dict['region'] = region
