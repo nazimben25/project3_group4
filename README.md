@@ -1,6 +1,6 @@
 # project3_group4
 Output of the project 3 - group 4 
-Members : talal sidiki , nazim bendjaballah
+Members : nazim bendjaballah
 
 
 1) objective
@@ -16,7 +16,7 @@ To present insights visually and dynamically for better interpretation and decis
 
 Main directory
     Data_collection jupyter notebook : code to extract, transform and load data
-    vizulaisations jupyter notebook : code to generate charts and analysis
+    visualizations jupyter notebook : code to generate charts and analysis
     create_db jupyter notebook : code to create the SQLITE db
     immigration_db.sqlite : database created from data collected
     app_project : API to access data
