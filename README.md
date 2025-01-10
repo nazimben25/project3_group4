@@ -4,13 +4,11 @@ Members : nazim bendjaballah
 
 
 1) objective
+
+Evolution of immigration to Canada between 2015 and 2024
 How a country’s macroeconomic indicators affects Immigration to Canada
-
-To visualize and explore different country macroeconomic indicators and assess whether or not it is a good indicator for immigration to Canada
-To analyze how GDP impacts immigration rates to Canada from different countries.
-To identify trends and correlations between economic strength (measured by GDP) and immigration flows.
+To identify trends and correlations between economic strength (measured by different indicators) and immigration flows
 To present insights visually and dynamically for better interpretation and decision-making.
-
 
 2) Organization of the repository
 
@@ -196,3 +194,11 @@ documentation : https://www.dexplo.org/bar_chart_race/tutorial/
 7) publishing
 the outpu is published in github repository
 https://nazimben25.github.io/project3_group4/
+
+8) ethics
+the use of the public data from World bank and IRCC 
+we did not face  data privacy issue cause the data is aggregated
+we insured the transparency : the data is sourced.
+Proper citation of these sources not only acknowledges their contribution but also upholds intellectual property rights. 
+
+the data was employed solely for this project purpose, avoiding we did not  harm individuals, communities, or organizations. 
